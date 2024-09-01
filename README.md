@@ -2,6 +2,9 @@
 
 This project is a RESTful API for managing a system that handles the creation, retrieval, updating, and deletion of user records. The API is built using FastAPI and connects to an MS SQL Server database.
 
+![bd](https://github.com/user-attachments/assets/0b8c400a-35c7-421b-9e41-1629cbab053f)
+
+
 ## Features
 - **Create:** Add new user records to the database.
 - **Read:** Retrieve individual or multiple user records.
